@@ -6,7 +6,7 @@ def main():
             print('existed')
         else:
             subprocess.run(['/bin/sh', 'create_env.sh'])
-            print('created')
+            print('created haha')
 
 
 if __name__ == "__main__":
